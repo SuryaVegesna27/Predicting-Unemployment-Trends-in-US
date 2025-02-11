@@ -52,14 +52,15 @@ A Long Short-Term Memory (LSTM) model is implemented to predict future unemploym
 ## Usage
 
 1. Clone the repository:
-git@github.com:SuryaVegesna27/Predicting-Unemployment-Trends-in-US.git
+[git@github.com:SuryaVegesna27/Predicting-Unemployment-Trends-in-US.git
+](https://github.com/SuryaVegesna27/Predicting-Unemployment-Trends-in-US.git)
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 cd predictive-analytics-project
 
-4. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
 jupyter notebook Predictive_Analytics_Project.ipynb
 
-5. Follow the instructions in the notebook to execute the code and analyze the data.
+4. Follow the instructions in the notebook to execute the code and analyze the data.
 
 
