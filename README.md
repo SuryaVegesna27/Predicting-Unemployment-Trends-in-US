@@ -67,10 +67,4 @@ jupyter notebook Predictive_Analytics_Project.ipynb
 
 4. Follow the instructions in the notebook to execute the code and analyze the data.
 
-## Contributors
-
-- Nithyasree Kusakula (https://github.com/Nithya-15)
-- Navyamsh Gangavaram
-- Yash Garg
-
 
