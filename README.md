@@ -43,11 +43,6 @@ Time series analysis is conducted to understand the temporal patterns in unemplo
 
 A Long Short-Term Memory (LSTM) model is implemented to predict future unemployment rates based on historical data. The model architecture includes LSTM layers followed by dense layers for regression.
 
-## Files
-
-- [Unemployment in America Per US State.csv](https://github.com/Nithya-15/Predictive-Analytics/blob/main/Unemployment%20in%20America%20Per%20US%20State.csv): Raw dataset
-- [Predictive Analytics - Project.ipynb](https://github.com/Nithya-15/Predictive-Analytics/blob/main/Predictive_Analytics_Project.ipynb): Jupyter Notebook containing the project code
-- [README.md](README.md): Documentation providing an overview of the project
 
 ## Requirements
 
@@ -57,14 +52,14 @@ A Long Short-Term Memory (LSTM) model is implemented to predict future unemploym
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/Nithya-15/predictive-analytics-project.git
+git@github.com:SuryaVegesna27/Predicting-Unemployment-Trends-in-US.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd predictive-analytics-project
 
-3. Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
 jupyter notebook Predictive_Analytics_Project.ipynb
 
-4. Follow the instructions in the notebook to execute the code and analyze the data.
+5. Follow the instructions in the notebook to execute the code and analyze the data.
 
 
